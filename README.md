@@ -1,5 +1,13 @@
 # Heuristic Evaluation – Amazon vs Flipkart
 
+### DATE:
+
+```
+NAME: V. POOJAA SREE
+REG.NO.: 212223040147
+
+```
+
 ## Aim
 To perform a heuristic evaluation of two leading e-commerce platforms, **Amazon** and **Flipkart**, based on major usability principles, compare their UI/UX, identify usability issues, and provide improvement suggestions.
 
@@ -100,6 +108,3 @@ This evaluation highlights important UX insights and design improvements for bet
 
 
 
-## ✔️ Submitted By:
-**[Your Name]**  
-**UI/UX Laboratory – Heuristic Evaluation Experiment**
