@@ -1,4 +1,6 @@
-# Heuristic Evaluation – Amazon vs Flipkart
+# UI-UX-Experiment3
+
+## Heuristic Evaluation – Amazon vs Flipkart
 
 ### DATE:
 
