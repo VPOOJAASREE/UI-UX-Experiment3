@@ -42,55 +42,65 @@ Observation: Bright UI, large banners, slightly cluttered.
 
 ### **2. Navigation & Menu Usability**
 **Amazon Navigation:**  
-`[Insert Screenshot Here]`  
+<img width="1382" height="979" alt="A2" src="https://github.com/user-attachments/assets/084079fb-e4d1-40df-bac8-f8c70adfe6b9" />
+ 
 Observation: Multi-level dropdown, consistent categories.
 
 **Flipkart Navigation:**  
-`[Insert Screenshot Here]`  
+<img width="1384" height="981" alt="F2" src="https://github.com/user-attachments/assets/261f1676-e955-48e1-99b4-19d3e19b533f" />
+ 
 Observation: Category tiles + hamburger menu, easy for beginners.
 
 ---
 
 ### **3. Search & Filter Efficiency**
 **Amazon Search/Filters:**  
-`[Insert Screenshot Here]`  
+<img width="1383" height="991" alt="A3" src="https://github.com/user-attachments/assets/5b64b9ba-bb5e-4d25-8772-569dd329a831" />
+ 
 Observation: Accurate search, advanced filter options.
 
 **Flipkart Search/Filters:**  
-`[Insert Screenshot Here]`  
+<img width="1386" height="979" alt="F3" src="https://github.com/user-attachments/assets/849002a3-0fc1-45dd-acff-83b81067de01" />
+  
 Observation: Good search, fewer filter categories.
 
 ---
 
 ### **4. Product Page Design & Information Clarity**
 **Amazon Product Page:**  
-`[Insert Screenshot Here]`  
+<img width="1384" height="992" alt="A4" src="https://github.com/user-attachments/assets/5573e918-87a9-4a37-9b1a-40ffe89e4875" />
+  
 Observation: Detailed specs, high clarity, strong CTAs.
 
 **Flipkart Product Page:**  
-`[Insert Screenshot Here]`  
+<img width="1381" height="986" alt="F4" src="https://github.com/user-attachments/assets/f20d42a2-fe0b-40cc-9370-94b331a148aa" />
+  
 Observation: Simple layout, essential details shown.
 
 ---
 
 ### **5. Checkout Flow & Payment Experience**
 **Amazon Checkout:**  
-`[Insert Screenshot Here]`  
+<img width="1381" height="991" alt="A5" src="https://github.com/user-attachments/assets/f02e908e-c94a-4c26-a8d3-c003e2b6dd01" />
+  
 Observation: Smooth, minimal steps, one-click buy.
 
 **Flipkart Checkout:**  
-`[Insert Screenshot Here]`  
+<img width="1383" height="991" alt="F5" src="https://github.com/user-attachments/assets/4a266d6b-815c-4d26-bf76-0b0c2e042b6a" />
+  
 Observation: Multi-step but organized.
 
 ---
 
 ### **6. Help/Support & Error Handling**
 **Amazon Help Section:**  
-`[Insert Screenshot Here]`  
+<img width="1381" height="991" alt="A5" src="https://github.com/user-attachments/assets/18485cdd-a94a-495b-8af2-32f077838057" />
+ 
 Observation: Very detailed and user-friendly.
 
 **Flipkart Help Section:**  
-`[Insert Screenshot Here]`  
+<img width="1380" height="985" alt="F6" src="https://github.com/user-attachments/assets/d3af12bf-7b4e-4fc6-ba31-de8c5bf0dfe3" />
+ 
 Observation: Good but fewer help topics.
 
 ---
