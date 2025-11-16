@@ -29,11 +29,13 @@ To perform a heuristic evaluation of two leading e-commerce platforms, **Amazon*
 
 ### **1. Homepage Layout & First Impressions**
 **Amazon Homepage:**  
-`[Insert Screenshot Here]`  
+<img width="1380" height="983" alt="A1" src="https://github.com/user-attachments/assets/4f7ccf93-7ff5-4183-b4a4-8f1294a592df" />
+  
 Observation: Clear layout, strong recommendations, slightly crowded.
 
 **Flipkart Homepage:**  
-`[Insert Screenshot Here]`  
+<img width="1380" height="984" alt="F1" src="https://github.com/user-attachments/assets/50018592-3243-48f4-87da-cd2c7db1ab75" />
+
 Observation: Bright UI, large banners, slightly cluttered.
 
 ---
